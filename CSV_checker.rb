@@ -12,7 +12,7 @@ clean_hash = array_of_hashes.each do |hash|
       if k != "phone_number"
         array_of_hashes.delete(hash)
       end
-   end
+    end
   end
 end
 

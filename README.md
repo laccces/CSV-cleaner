@@ -2,12 +2,12 @@ Task:
 
 1. Create CSV
 Generate a csv from https://www.mockaroo.com/ that has the following fields
-(make sure a percentage of them are blank)
+(make sure a percentage of them are blank):
 
-email 
-firstname
-lastname 
-phone
+- email 
+- firstname
+- lastname 
+- phone
 
 2. Write code
 - load the CSV
